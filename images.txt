@@ -1,1 +1,2 @@
 --platform=linux/arm64 rainbond/rainbond:v5.8.0-arm64-dind-allinone
+rainbond/rainbond:v5.8.1-dind-allinone
