@@ -1,5 +1,2 @@
---platform=linux/arm64 rainbond/rainbond:v5.8.0-arm64-dind-allinone
-rainbond/rainbond:v5.8.1-dind-allinone
-docker.io/flannel/flannel:v0.25.5
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
 --platform=arm64 nginx:latest
+--platform=arm64 rabbitmq:latest
