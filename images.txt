@@ -1,2 +1,3 @@
-rabbitmq:latest
---platform=arm64 rabbitmq:latest
+rabbitmq:3.9.5-management-alpine
+--platform=arm64 rabbitmq:3.9.5-management-alpine
+ 
