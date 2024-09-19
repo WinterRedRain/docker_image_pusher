@@ -1,2 +1,2 @@
---platform=arm64 nginx:latest
+rabbitmq:latest
 --platform=arm64 rabbitmq:latest
