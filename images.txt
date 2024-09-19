@@ -1,4 +1,4 @@
-rabbitmq:latest
---platform=arm64 rabbitmq:latest
-
- 
+apache/rocketmq:5.2.0
+apacherocketmq/rocketmq-dashboard:latest
+--platform=arm64 apache/rocketmq:5.2.0
+--platform=arm64 apacherocketmq/rocketmq-dashboard:latest
