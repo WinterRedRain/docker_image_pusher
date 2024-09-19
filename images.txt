@@ -1,4 +1,4 @@
-rabbitmq:3.8.2-management
---platform=arm64 rabbitmq:3.8.2-management
+rabbitmq:latest
+--platform=arm64 rabbitmq:latest
 
  
