@@ -1,2 +1,2 @@
 --platform=arm64 rabbitmq:3.8.2-management
-cr2.fit2cloud.com/1panel/maxkb
+--platform=arm64 ollama/ollama
