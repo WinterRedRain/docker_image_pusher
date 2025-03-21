@@ -1,3 +1,2 @@
 --platform=arm64 rabbitmq:3.8.2-management
-portainer/portainer:latest
---platform=arm64 portainer/portainer:latest
+easysoft/zentao:latest
