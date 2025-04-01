@@ -1,2 +1,3 @@
 --platform=arm64 rabbitmq:3.8.2-management
 openjdk:8-jdk-alpine
+nginx:latest
