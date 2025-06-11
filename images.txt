@@ -1,4 +1,2 @@
 --platform=arm64 rabbitmq:3.8.2-management
---platform=arm64 openjdk:8-jdk-alpine
-mysql:5.7
-mysql:8.0.33
+redis:latest
