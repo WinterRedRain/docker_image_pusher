@@ -1,4 +1,2 @@
---platform=arm64 rabbitmq:3.8.2-management
-redis:latest
 --platform=arm64 percona/percona-xtradb-cluster:5.7.24
 
