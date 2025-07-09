@@ -1,2 +1,3 @@
 --platform=arm64 percona/percona-xtradb-cluster:8.0.42
+percona/percona-xtradb-cluster:8.0.42
 
