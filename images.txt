@@ -2,4 +2,6 @@
 percona/percona-xtradb-cluster:8.0.42
 docker.elastic.co/elasticsearch/elasticsearch:8.12.2
 kibana:8.12.2
-
+docker.elastic.co/logstash/logstash:9.4.2
+docker.elastic.co/kibana/kibana:9.4.2
+docker.elastic.co/elasticsearch/elasticsearch:9.4.2
