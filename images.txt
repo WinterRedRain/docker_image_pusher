@@ -1,2 +1,2 @@
 --platform=arm64 percona/percona-xtradb-cluster:8.0.42
-nacos/nacos-server:v3.2.2
+xuxueli/xxl-job-admin:2.4.0
