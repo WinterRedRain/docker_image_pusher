@@ -1,2 +1,2 @@
 --platform=arm64 percona/percona-xtradb-cluster:8.0.42
-xuxueli/xxl-job-admin:2.4.0
+minio/mc:RELEASE.2023-09-29T16-41-22Z
